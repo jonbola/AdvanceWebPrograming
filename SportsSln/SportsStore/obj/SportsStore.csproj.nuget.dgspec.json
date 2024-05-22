@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Th Minh\\LTWeb NC\\Bai 1\\SportsSln\\SportsStore\\SportsStore.csproj": {}
+    "C:\\Users\\SV\\Downloads\\Project ASP\\SportsSln\\SportsStore\\SportsStore.csproj": {}
   },
   "projects": {
-    "D:\\Th Minh\\LTWeb NC\\Bai 1\\SportsSln\\SportsStore\\SportsStore.csproj": {
+    "C:\\Users\\SV\\Downloads\\Project ASP\\SportsSln\\SportsStore\\SportsStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Th Minh\\LTWeb NC\\Bai 1\\SportsSln\\SportsStore\\SportsStore.csproj",
+        "projectUniqueName": "C:\\Users\\SV\\Downloads\\Project ASP\\SportsSln\\SportsStore\\SportsStore.csproj",
         "projectName": "SportsStore",
-        "projectPath": "D:\\Th Minh\\LTWeb NC\\Bai 1\\SportsSln\\SportsStore\\SportsStore.csproj",
+        "projectPath": "C:\\Users\\SV\\Downloads\\Project ASP\\SportsSln\\SportsStore\\SportsStore.csproj",
         "packagesPath": "C:\\Users\\SV\\.nuget\\packages\\",
-        "outputPath": "D:\\Th Minh\\LTWeb NC\\Bai 1\\SportsSln\\SportsStore\\obj\\",
+        "outputPath": "C:\\Users\\SV\\Downloads\\Project ASP\\SportsSln\\SportsStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,18 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
