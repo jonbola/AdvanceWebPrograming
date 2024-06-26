@@ -1,198 +1,295 @@
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.Development.json
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.json
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\bin\Debug\net6.0\global.json
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.exe
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.deps.json
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.runtimeconfig.json
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.dll
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.pdb
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.AssemblyReference.cache
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfoInputs.cache
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfo.cs
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.CoreCompileInputs.cache
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.MvcApplicationPartsAssemblyInfo.cache
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cache
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cs
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets.build.json
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets.development.json
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\obj\Debug\net6.0\scopedcss\bundle\SportsStore.styles.css
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.dll
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\obj\Debug\net6.0\refint\SportsStore.dll
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.pdb
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.genruntimeconfig.cache
-D:\Th Minh\LTWeb NC\Bai 1\SportsSln\SportsStore\obj\Debug\net6.0\ref\SportsStore.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.json
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\global.json
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.exe
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.deps.json
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.runtimeconfig.json
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.pdb
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.AssemblyReference.cache
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfoInputs.cache
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfo.cs
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.CoreCompileInputs.cache
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cache
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cs
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\obj\Debug\net6.0\scopedcss\bundle\SportsStore.styles.css
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\obj\Debug\net6.0\refint\SportsStore.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.pdb
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.genruntimeconfig.cache
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\obj\Debug\net6.0\ref\SportsStore.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\Humanizer.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\System.Runtime.Caching.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\SV\Downloads\Project ASP\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.CopyComplete
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.json
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\global.json
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.exe
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.deps.json
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.runtimeconfig.json
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.pdb
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\Humanizer.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\System.Runtime.Caching.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.AssemblyReference.cache
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfoInputs.cache
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfo.cs
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.CoreCompileInputs.cache
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cache
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cs
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\obj\Debug\net6.0\scopedcss\bundle\SportsStore.styles.css
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.CopyComplete
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\obj\Debug\net6.0\refint\SportsStore.dll
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.pdb
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.genruntimeconfig.cache
-C:\Users\SV\Downloads\Project\SportsSln\SportsStore\obj\Debug\net6.0\ref\SportsStore.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.json
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\global.json
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.exe
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.deps.json
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.runtimeconfig.json
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.pdb
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\Humanizer.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\System.Runtime.Caching.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.AssemblyReference.cache
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfoInputs.cache
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfo.cs
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.CoreCompileInputs.cache
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cache
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cs
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\obj\Debug\net6.0\scopedcss\bundle\SportsStore.styles.css
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.CopyComplete
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\obj\Debug\net6.0\refint\SportsStore.dll
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.pdb
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.genruntimeconfig.cache
-C:\Users\SV\Downloads\Project\AdvanceWebPrograming\SportsSln\SportsStore\obj\Debug\net6.0\ref\SportsStore.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/appsettings.Development.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/appsettings.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/global.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/SportsStore
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/SportsStore.deps.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/SportsStore.runtimeconfig.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/SportsStore.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/SportsStore.pdb
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/obj/Debug/net6.0/SportsStore.csproj.AssemblyReference.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/obj/Debug/net6.0/SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/obj/Debug/net6.0/SportsStore.AssemblyInfoInputs.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/obj/Debug/net6.0/SportsStore.AssemblyInfo.cs
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/obj/Debug/net6.0/SportsStore.csproj.CoreCompileInputs.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/obj/Debug/net6.0/SportsStore.MvcApplicationPartsAssemblyInfo.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/obj/Debug/net6.0/SportsStore.RazorAssemblyInfo.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/obj/Debug/net6.0/SportsStore.RazorAssemblyInfo.cs
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/obj/Debug/net6.0/staticwebassets.build.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/obj/Debug/net6.0/staticwebassets.development.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/obj/Debug/net6.0/scopedcss/bundle/SportsStore.styles.css
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/obj/Debug/net6.0/SportsStore.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/obj/Debug/net6.0/refint/SportsStore.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/obj/Debug/net6.0/SportsStore.pdb
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/obj/Debug/net6.0/SportsStore.genruntimeconfig.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/obj/Debug/net6.0/ref/SportsStore.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/Humanizer.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/obj/Debug/net6.0/SportsStore.csproj.CopyComplete
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/Chapter7/SportsSln/SportsStore/bin/Debug/net6.0/libman.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/appsettings.Development.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/appsettings.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/global.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/libman.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/SportsStore
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/SportsStore.deps.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/SportsStore.runtimeconfig.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/SportsStore.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/SportsStore.pdb
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/Humanizer.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/obj/Debug/net6.0/SportsStore.csproj.AssemblyReference.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/obj/Debug/net6.0/SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/obj/Debug/net6.0/SportsStore.AssemblyInfoInputs.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/obj/Debug/net6.0/SportsStore.AssemblyInfo.cs
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/obj/Debug/net6.0/SportsStore.csproj.CoreCompileInputs.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/obj/Debug/net6.0/SportsStore.MvcApplicationPartsAssemblyInfo.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/obj/Debug/net6.0/SportsStore.RazorAssemblyInfo.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/obj/Debug/net6.0/SportsStore.RazorAssemblyInfo.cs
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/obj/Debug/net6.0/staticwebassets.build.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/obj/Debug/net6.0/staticwebassets.development.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/obj/Debug/net6.0/scopedcss/bundle/SportsStore.styles.css
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/obj/Debug/net6.0/SportsStore.csproj.CopyComplete
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/obj/Debug/net6.0/SportsStore.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/obj/Debug/net6.0/refint/SportsStore.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/obj/Debug/net6.0/SportsStore.pdb
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/obj/Debug/net6.0/SportsStore.genruntimeconfig.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 2/SportsStore/obj/Debug/net6.0/ref/SportsStore.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/appsettings.Development.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/appsettings.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/global.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/libman.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/SportsStore
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/SportsStore.deps.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/SportsStore.runtimeconfig.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/SportsStore.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/SportsStore.pdb
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/Humanizer.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/obj/Debug/net6.0/SportsStore.csproj.AssemblyReference.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/obj/Debug/net6.0/SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/obj/Debug/net6.0/SportsStore.AssemblyInfoInputs.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/obj/Debug/net6.0/SportsStore.AssemblyInfo.cs
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/obj/Debug/net6.0/SportsStore.csproj.CoreCompileInputs.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/obj/Debug/net6.0/SportsStore.MvcApplicationPartsAssemblyInfo.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/obj/Debug/net6.0/SportsStore.RazorAssemblyInfo.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/obj/Debug/net6.0/SportsStore.RazorAssemblyInfo.cs
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/obj/Debug/net6.0/staticwebassets.build.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/obj/Debug/net6.0/staticwebassets.development.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/obj/Debug/net6.0/scopedcss/bundle/SportsStore.styles.css
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/obj/Debug/net6.0/SportsStore.csproj.CopyComplete
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/obj/Debug/net6.0/SportsStore.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/obj/Debug/net6.0/refint/SportsStore.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/obj/Debug/net6.0/SportsStore.pdb
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/obj/Debug/net6.0/SportsStore.genruntimeconfig.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 3/SportsStore/obj/Debug/net6.0/ref/SportsStore.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/appsettings.Development.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/global.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/libman.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/appsettings.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/SportsStore
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/SportsStore.deps.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/SportsStore.runtimeconfig.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/SportsStore.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/SportsStore.pdb
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/Humanizer.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/obj/Debug/net6.0/SportsStore.csproj.AssemblyReference.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/obj/Debug/net6.0/SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/obj/Debug/net6.0/SportsStore.AssemblyInfoInputs.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/obj/Debug/net6.0/SportsStore.AssemblyInfo.cs
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/obj/Debug/net6.0/SportsStore.csproj.CoreCompileInputs.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/obj/Debug/net6.0/SportsStore.MvcApplicationPartsAssemblyInfo.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/obj/Debug/net6.0/SportsStore.RazorAssemblyInfo.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/obj/Debug/net6.0/SportsStore.RazorAssemblyInfo.cs
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/obj/Debug/net6.0/staticwebassets.build.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/obj/Debug/net6.0/staticwebassets.development.json
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/obj/Debug/net6.0/scopedcss/bundle/SportsStore.styles.css
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/obj/Debug/net6.0/SportsStore.csproj.CopyComplete
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/obj/Debug/net6.0/SportsStore.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/obj/Debug/net6.0/refint/SportsStore.dll
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/obj/Debug/net6.0/SportsStore.pdb
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/obj/Debug/net6.0/SportsStore.genruntimeconfig.cache
+/Users/minhluongvan/Projects/Dotnet/ASP-NET-CORE6/LTWeb NC/Bai 4/SportsStore/obj/Debug/net6.0/ref/SportsStore.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\appsettings.json
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\global.json
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\libman.json
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\SportsStore.exe
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\SportsStore.deps.json
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\SportsStore.runtimeconfig.json
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\SportsStore.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\SportsStore.pdb
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SV\Downloads\Project\SportsStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SV\Downloads\Project\SportsStore\obj\Debug\net6.0\SportsStore.csproj.AssemblyReference.cache
+C:\Users\SV\Downloads\Project\SportsStore\obj\Debug\net6.0\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SV\Downloads\Project\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\SV\Downloads\Project\SportsStore\obj\Debug\net6.0\SportsStore.AssemblyInfo.cs
+C:\Users\SV\Downloads\Project\SportsStore\obj\Debug\net6.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\SV\Downloads\Project\SportsStore\obj\Debug\net6.0\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SV\Downloads\Project\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cache
+C:\Users\SV\Downloads\Project\SportsStore\obj\Debug\net6.0\SportsStore.RazorAssemblyInfo.cs
+C:\Users\SV\Downloads\Project\SportsStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SV\Downloads\Project\SportsStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SV\Downloads\Project\SportsStore\obj\Debug\net6.0\scopedcss\bundle\SportsStore.styles.css
+C:\Users\SV\Downloads\Project\SportsStore\obj\Debug\net6.0\SportsStore.csproj.CopyComplete
+C:\Users\SV\Downloads\Project\SportsStore\obj\Debug\net6.0\SportsStore.dll
+C:\Users\SV\Downloads\Project\SportsStore\obj\Debug\net6.0\refint\SportsStore.dll
+C:\Users\SV\Downloads\Project\SportsStore\obj\Debug\net6.0\SportsStore.pdb
+C:\Users\SV\Downloads\Project\SportsStore\obj\Debug\net6.0\SportsStore.genruntimeconfig.cache
+C:\Users\SV\Downloads\Project\SportsStore\obj\Debug\net6.0\ref\SportsStore.dll
