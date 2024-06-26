@@ -28,13 +28,17 @@
         } 
 </tbody>
 </table>
-@code {
+@code
+{
   [Parameter]
   public string TableTitle { get; set; } = "Orders";
+
   [Parameter]
   public IEnumerable<Order> Orders { get; set; } = Enumerable.Empty<Order>();
+
   [Parameter]
   public string ButtonLabel { get; set; } = "Ship";
+  
   [Parameter]
   public EventCallback<int> OrderSelected{ get; set; }
 }

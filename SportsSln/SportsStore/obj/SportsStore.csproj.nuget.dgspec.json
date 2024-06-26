@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SV\\Downloads\\Project\\SportsStore\\SportsStore.csproj": {}
+    "C:\\Users\\SV\\Downloads\\Project\\SportsSln\\SportsStore\\SportsStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SV\\Downloads\\Project\\SportsStore\\SportsStore.csproj": {
+    "C:\\Users\\SV\\Downloads\\Project\\SportsSln\\SportsStore\\SportsStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SV\\Downloads\\Project\\SportsStore\\SportsStore.csproj",
+        "projectUniqueName": "C:\\Users\\SV\\Downloads\\Project\\SportsSln\\SportsStore\\SportsStore.csproj",
         "projectName": "SportsStore",
-        "projectPath": "C:\\Users\\SV\\Downloads\\Project\\SportsStore\\SportsStore.csproj",
+        "projectPath": "C:\\Users\\SV\\Downloads\\Project\\SportsSln\\SportsStore\\SportsStore.csproj",
         "packagesPath": "C:\\Users\\SV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SV\\Downloads\\Project\\SportsStore\\obj\\",
+        "outputPath": "C:\\Users\\SV\\Downloads\\Project\\SportsSln\\SportsStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,6 +45,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",

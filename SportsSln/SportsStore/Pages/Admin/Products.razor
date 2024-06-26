@@ -44,14 +44,16 @@
   </tbody>
 </table>
 <NavLink class="btn btn-primary" href="/admin/products/create">Create</NavLink>
-@code {
+@code
+{
   public IStoreRepository Repository => Service;
-  public IEnumerable<Product> ProductData { get; set; }
-  = Enumerable.Empty<Product>();
+  public IEnumerable<Product> ProductData { get; set; } = Enumerable.Empty<Product>();
+
   protected async override Task OnInitializedAsync()
   {
     await UpdateData();
   }
+  
   public async Task UpdateData()
   {
     ProductData = await Repository.Products.ToListAsync();

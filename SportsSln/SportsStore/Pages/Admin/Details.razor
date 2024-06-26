@@ -26,15 +26,19 @@
 </table>
 <NavLink class="btn btn-warning" href="@EditUrl">Edit</NavLink>
 <NavLink class="btn btn-secondary" href="/admin/products">Back</NavLink>
-@code {
+@code
+{
   [Inject]
   public IStoreRepository? Repository { get; set; }
+
   [Parameter]
   public long Id { get; set; }
   public Product? Product { get; set; }
+
   protected override void OnParametersSet()
   {
     Product = Repository?.Products.FirstOrDefault(p => p.ProductID == Id);
   }
+  
   public string EditUrl => $"/admin/products/edit/{Product?.ProductID}";
 }

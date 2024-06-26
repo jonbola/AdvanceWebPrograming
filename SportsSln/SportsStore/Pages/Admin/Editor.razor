@@ -42,13 +42,17 @@
     <NavLink class="btn btn-secondary" href="/admin/products">Cancel</NavLink>
   </div>
 </EditForm>
-@code {
+@code
+{
   public IStoreRepository Repository => Service;
+
   [Inject]
   public NavigationManager? NavManager { get; set; }
+
   [Parameter]
   public long Id { get; set; } = 0;
   public Product Product { get; set; } = new Product();
+
   protected override void OnParametersSet()
   {
     if (Id != 0)
@@ -57,6 +61,7 @@
       ?? new();
     }
   }
+
   public void SaveProduct()
   {
     if (Id == 0)
@@ -67,9 +72,9 @@
     {
       Repository.SaveProduct(Product);
     }
-
     NavManager?.NavigateTo("/admin/products");
   }
+  
   public string ThemeColor => Id == 0 ? "primary" : "warning";
   public string TitleText => Id == 0 ? "Create" : "Edit";
 }
